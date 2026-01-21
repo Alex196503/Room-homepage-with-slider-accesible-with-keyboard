@@ -196,7 +196,7 @@ br{
 @media(prefers-reduced-motion: reduce)
 {
     *{
-        animation: none !;
+        transition: none !important;
     }
 }
 .menu-icon{
